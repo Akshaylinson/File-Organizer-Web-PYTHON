@@ -1,1 +1,20 @@
 
+{
+  "mappings": {
+    ".jpg": "Images",
+    ".jpeg": "Images",
+    ".png": "Images",
+    ".gif": "Images",
+    ".mp4": "Video",
+    ".mkv": "Video",
+    ".mp3": "Music",
+    ".pdf": "Documents",
+    ".docx": "Documents",
+    ".xlsx": "Documents",
+    ".csv": "Documents",
+    ".py": "Code",
+    ".js": "Code",
+    ".zip": "Compressed"
+  },
+  "others_folder_name": "Others"
+}
